@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Arpit --></label>
+        <name>Arpit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date of Expense --></label>
+        <name>Date_of_Expense__c</name>
+    </fields>
+    <fields>
+        <label><!-- Does Everyone Share Equal Amount? --></label>
+        <name>Does_Everyone_Share_Equal_Amount__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Expense Amount --></label>
+        <name>Expense_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Expense Owner --></label>
+        <name>Expense_Owner__c</name>
+        <picklistValues>
+            <masterLabel>Arpit</masterLabel>
+            <translation><!-- Arpit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Harsh</masterLabel>
+            <translation><!-- Harsh --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Krutarth</masterLabel>
+            <translation><!-- Krutarth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nirali</masterLabel>
+            <translation><!-- Nirali --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Palak</masterLabel>
+            <translation><!-- Palak --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Purav</masterLabel>
+            <translation><!-- Purav --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rutvi</masterLabel>
+            <translation><!-- Rutvi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tirth</masterLabel>
+            <translation><!-- Tirth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Urvish</masterLabel>
+            <translation><!-- Urvish --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Expense Type --></label>
+        <name>Expense_Type__c</name>
+        <picklistValues>
+            <masterLabel>Activity Fees</masterLabel>
+            <translation><!-- Activity Fees --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Air Fare</masterLabel>
+            <translation><!-- Air Fare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Breakfast</masterLabel>
+            <translation><!-- Breakfast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Car Rental</masterLabel>
+            <translation><!-- Car Rental --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Coffee/Snacks</masterLabel>
+            <translation><!-- Coffee/Snacks --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dinner</masterLabel>
+            <translation><!-- Dinner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Insurance</masterLabel>
+            <translation><!-- Insurance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Liquor</masterLabel>
+            <translation><!-- Liquor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lunch</masterLabel>
+            <translation><!-- Lunch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Shopping</masterLabel>
+            <translation><!-- Personal Shopping --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Stay during the trip</masterLabel>
+            <translation><!-- Stay during the trip --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Uber/Lyft</masterLabel>
+            <translation><!-- Uber/Lyft --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Harsh --></label>
+        <name>Harsh__c</name>
+    </fields>
+    <fields>
+        <label><!-- Krutarth --></label>
+        <name>Krutarth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Nirali --></label>
+        <name>Nirali__c</name>
+    </fields>
+    <fields>
+        <label><!-- Palak --></label>
+        <name>Palak__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Expense Lookup --></label>
+        <name>Parent_Expense_Lookup__c</name>
+        <relationshipLabel><!-- Expense (Parent Expense Lookup) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Parent Expense --></label>
+        <name>Parent_Expense__c</name>
+        <relationshipLabel><!-- Expense --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Personal Expense? --></label>
+        <name>Personal_Expense__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Photo --></label>
+        <name>Photo__c</name>
+    </fields>
+    <fields>
+        <label><!-- Purav --></label>
+        <name>Purav__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rutvi --></label>
+        <name>Rutvi__c</name>
+    </fields>
+    <fields>
+        <label><!-- Share Expense with Everybody --></label>
+        <name>Share_Expense_with_Everybody__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Tirth --></label>
+        <name>Tirth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Urvish --></label>
+        <name>Urvish__c</name>
+    </fields>
+    <fields>
+        <label><!-- Who do you share this expense with? --></label>
+        <name>Who_do_you_share_this_expense_with__c</name>
+        <picklistValues>
+            <masterLabel>Arpit</masterLabel>
+            <translation><!-- Arpit --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Harsh</masterLabel>
+            <translation><!-- Harsh --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Krutarth</masterLabel>
+            <translation><!-- Krutarth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nirali</masterLabel>
+            <translation><!-- Nirali --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Palak</masterLabel>
+            <translation><!-- Palak --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Purav</masterLabel>
+            <translation><!-- Purav --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rutvi</masterLabel>
+            <translation><!-- Rutvi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tirth</masterLabel>
+            <translation><!-- Tirth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Urvish</masterLabel>
+            <translation><!-- Urvish --></translation>
+        </picklistValues>
+    </fields>
+    <caseValues>
+        <plural>false</plural>
+        <value>Expense</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Expense</value>
+    </caseValues>
+    <startsWith>Consonant</startsWith>
+    <layouts>
+        <layout>Expense Shared Equally</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Expense Shared Unequally</layout>
+        <sections>
+            <label><!-- Amount Following People Owe For This Expense --></label>
+            <section>Amount Following People Owe For This Expense</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Personal Expense</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- Please select this record type if the expense share equal amount --></description>
+        <label><!-- Expense Shared Equally --></label>
+        <name>Expense_Shared_Equally</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Please select this record type if the expense shares different amount --></description>
+        <label><!-- Expense Shared Unequally --></label>
+        <name>Expense_Shared_Unequally</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Please select this record type for personal expense --></description>
+        <label><!-- Personal Expense --></label>
+        <name>Personal_Expense</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Expense amount must match total of expense shared by individuals --></errorMessage>
+        <name>Total_Expense_Shared_Unequally</name>
+    </validationRules>
+</CustomObjectTranslation>

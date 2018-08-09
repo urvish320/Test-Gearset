@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Activities/Entry Fees --></label>
+        <name>Activities_Entry_Fees__c</name>
+    </fields>
+    <fields>
+        <label><!-- Breakfast --></label>
+        <name>Breakfast__c</name>
+    </fields>
+    <fields>
+        <label><!-- Coffee/Snacks --></label>
+        <name>Coffee_Snacks__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dinner --></label>
+        <name>Dinner__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lunch --></label>
+        <name>Lunch__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total expense for the trip --></label>
+        <name>Total_expense_for_the_trip__c</name>
+    </fields>
+    <fields>
+        <label><!-- Arpit --></label>
+        <name>balance_arpit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Harsh --></label>
+        <name>balance_harsh__c</name>
+    </fields>
+    <fields>
+        <label><!-- Krutarth --></label>
+        <name>balance_krutarth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Nirali --></label>
+        <name>balance_nirali__c</name>
+    </fields>
+    <fields>
+        <label><!-- Palak --></label>
+        <name>balance_palak__c</name>
+    </fields>
+    <fields>
+        <label><!-- Purav --></label>
+        <name>balance_purav__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rutvi --></label>
+        <name>balance_rutvi__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tirth --></label>
+        <name>balance_tirth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Urvish --></label>
+        <name>balance_urvish__c</name>
+    </fields>
+    <fields>
+        <label><!-- Arpit --></label>
+        <name>personal_arpit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Harsh --></label>
+        <name>personal_harsh__c</name>
+    </fields>
+    <fields>
+        <label><!-- Krutarth --></label>
+        <name>personal_krutarth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Nirali --></label>
+        <name>personal_nirali__c</name>
+    </fields>
+    <fields>
+        <label><!-- Palak --></label>
+        <name>personal_palak__c</name>
+    </fields>
+    <fields>
+        <label><!-- Purav --></label>
+        <name>personal_purav__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rutvi --></label>
+        <name>personal_rutvi__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tirth --></label>
+        <name>personal_tirth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Urvish --></label>
+        <name>personal_urvish__c</name>
+    </fields>
+    <fields>
+        <label><!-- Arpit --></label>
+        <name>pocket_arpit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Harsh --></label>
+        <name>pocket_harsh__c</name>
+    </fields>
+    <fields>
+        <label><!-- Krutarth --></label>
+        <name>pocket_krutarth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Nirali --></label>
+        <name>pocket_nirali__c</name>
+    </fields>
+    <fields>
+        <label><!-- Palak --></label>
+        <name>pocket_palak__c</name>
+    </fields>
+    <fields>
+        <label><!-- Purav --></label>
+        <name>pocket_purav__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rutvi --></label>
+        <name>pocket_rutvi__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tirth --></label>
+        <name>pocket_tirth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Urvish --></label>
+        <name>pocket_urvish__c</name>
+    </fields>
+    <fields>
+        <label><!-- Arpit --></label>
+        <name>total_arpit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Harsh --></label>
+        <name>total_harsh__c</name>
+    </fields>
+    <fields>
+        <label><!-- Krutarth --></label>
+        <name>total_krutarth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Nirali --></label>
+        <name>total_nirali__c</name>
+    </fields>
+    <fields>
+        <label><!-- Palak --></label>
+        <name>total_palak__c</name>
+    </fields>
+    <fields>
+        <label><!-- Purav --></label>
+        <name>total_purav__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rutvi --></label>
+        <name>total_rutvi__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tirth --></label>
+        <name>total_tirth__c</name>
+    </fields>
+    <fields>
+        <label><!-- Urvish --></label>
+        <name>total_urvish__c</name>
+    </fields>
+    <caseValues>
+        <plural>false</plural>
+        <value>Total Expense</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Total Expense</value>
+    </caseValues>
+    <startsWith>Consonant</startsWith>
+    <layouts>
+        <layout>Total Expense Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Expense by Following Categories (Does not include personal expense) --></label>
+            <section>Expense by Following Categories (Does not include personal expense)</section>
+        </sections>
+        <sections>
+            <label><!-- Personal Expense --></label>
+            <section>Personal Expense</section>
+        </sections>
+        <sections>
+            <label><!-- Total Balance (Does not include personal expense) --></label>
+            <section>Total Balance (Does not include personal expense)</section>
+        </sections>
+        <sections>
+            <label><!-- Total Expense Done By (Does not include personal expense) --></label>
+            <section>Total Expense Done By (Does not include personal expense)</section>
+        </sections>
+        <sections>
+            <label><!-- Total Expense Owed By (Does not include personal expense) --></label>
+            <section>Total Expense Owed By (Does not include personal expense)</section>
+        </sections>
+    </layouts>
+    <webLinks>
+        <label><!-- Create_New_Expense --></label>
+        <name>Create_New_Expense</name>
+    </webLinks>
+</CustomObjectTranslation>
