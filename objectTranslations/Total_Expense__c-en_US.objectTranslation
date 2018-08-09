@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
-        <label><!-- Activities/Entry Fees --></label>
-        <name>Activities_Entry_Fees__c</name>
-    </fields>
-    <fields>
         <label><!-- Breakfast --></label>
         <name>Breakfast__c</name>
     </fields>
@@ -167,15 +163,10 @@
         <label><!-- Urvish --></label>
         <name>total_urvish__c</name>
     </fields>
-    <caseValues>
-        <plural>false</plural>
-        <value>Total Expense</value>
-    </caseValues>
-    <caseValues>
-        <plural>true</plural>
-        <value>Total Expense</value>
-    </caseValues>
-    <startsWith>Consonant</startsWith>
+    <fields>
+        <label><!-- Activities &amp; Entry Fees --></label>
+        <name>Activities_Entry_Fees__c</name>
+    </fields>
     <layouts>
         <layout>Total Expense Layout</layout>
         <sections>

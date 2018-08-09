@@ -46,19 +46,6 @@
         <label>Total Expense</label>
     </compactLayouts>
     <fields>
-        <fullName>Activities_Entry_Fees__c</fullName>
-        <defaultValue>0.00</defaultValue>
-        <externalId>false</externalId>
-        <label>Activities/Entry Fees</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Currency</type>
-    </fields>
-    <fields>
         <fullName>Breakfast__c</fullName>
         <defaultValue>0.00</defaultValue>
         <externalId>false</externalId>
@@ -702,6 +689,19 @@
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Summary</type>
+    </fields>
+    <fields>
+        <fullName>Activities_Entry_Fees__c</fullName>
+        <defaultValue>0.00</defaultValue>
+        <externalId>false</externalId>
+        <label>Activities &amp; Entry Fees</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
     </fields>
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>Total_Expense</compactLayoutAssignment>
