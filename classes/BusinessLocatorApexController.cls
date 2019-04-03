@@ -1,3 +1,4 @@
+//Controller for BusinessLocator
 public class BusinessLocatorApexController {
     @AuraEnabled
     public static String getLocal (String searchTerm, Decimal lat, Decimal lon) {
